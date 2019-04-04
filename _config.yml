@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Dude
+title: Spt的博客
 email: 873640736@qq.com
-description:  Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
-baseurl: "/Shen.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+description:  本人是一个大四即将毕业的学生，马上就要踏入社会了就想把我的实习、工作、学习的经验经历记录下来。
+              该博客主要是会写一些关于java相关的知识，既可以让我自己归纳总结，也可以让大家借鉴一下，要是有
+              写的不对的地方大家可以又想提醒我，感谢！
+baseurl: "/Shen.github.io"
+url: ""
+twitter_username: Spt
+github_username:  Spt
 
 # Build settings
 markdown: kramdown
