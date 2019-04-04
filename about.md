@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: 了解博主
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+  本人是一个大四即将毕业的学生，马上就要踏入社会了就想把我的实习、工作、学习的经验经历记录下来。
