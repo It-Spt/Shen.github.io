@@ -76,7 +76,7 @@ Alt + F8 在 Debug 的状态下，选中对象，弹出可输入计算表达式�
 Alt + Home 定位 / 显示到当前文件的 Navigation Bar
 Alt + Enter IntelliJ IDEA 根据光标所在问题，提供快速修复选择，光标放在的位置不同提示的结果也不同 （必备）
 Alt + Insert 代码自动生成，如生成对象的 set / get 方法，构造函数，toString() 等 （必备）
-{% endhight %}
+{% endhighlight %}
 *************************************************************************************************
 {% highlight ruby %}
 Alt + 左方向键 切换当前已打开的窗口中的子视图，比如 Debug 窗口中有 Output、Debugger 等子视图，用此快捷键就可以在子视图中切换 （必备）
