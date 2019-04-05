@@ -159,6 +159,7 @@ Ctrl + Shift + 后方向键 光标放在方法名上，将方法移动到下一�
 {% endhighlight %}
 
 ## 6.Alt + Shift 快捷键
+{% highlight ruby %}
 Alt + Shift + N 选择 / 添加 task （必备）
 Alt + Shift + F 显示添加到收藏夹弹出层 / 添加到收藏夹
 Alt + Shift + C 查看最近操作项目的变化情况列表
@@ -169,6 +170,7 @@ Alt + Shift + F10 弹出 Run 的可选择菜单
 Alt + Shift + 左键双击 选择被双击的单词 / 中文句，按住不放，可以同时选择其他单词 / 中文句 （必备）
 Alt + Shift + 前方向键 移动光标所在行向上移动 （必备）
 Alt + Shift + 后方向键 移动光标所在行向下移动 （必备）
+{% endhighlight %}
 
 ## 7.Ctrl + Shift + Alt 快捷键
 {% highlight ruby %}
