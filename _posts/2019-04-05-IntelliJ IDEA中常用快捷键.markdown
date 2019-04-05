@@ -191,3 +191,5 @@ F12 回到前一个工具窗口 （必备）
 Tab缩进 （必备）
 ESC 从工具窗口进入代码文件窗口 （必备）
 连按两次Shift 弹出 Search Everywhere 弹出层
+{% endhighlight %}
+
