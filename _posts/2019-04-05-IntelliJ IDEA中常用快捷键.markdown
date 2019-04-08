@@ -76,7 +76,7 @@ Alt + F8 在 Debug 的状态下，选中对象，弹出可输入计算表达式�
 Alt + Home 定位 / 显示到当前文件的 Navigation Bar
 Alt + Enter IntelliJ IDEA 根据光标所在问题，提供快速修复选择，光标放在的位置不同提示的结果也不同 （必备）
 Alt + Insert 代码自动生成，如生成对象的 set / get 方法，构造函数，toString() 等 （必备）
-{% endhight %}
+{% endhighlight %}
 *************************************************************************************************
 {% highlight ruby %}
 Alt + 左方向键 切换当前已打开的窗口中的子视图，比如 Debug 窗口中有 Output、Debugger 等子视图，用此快捷键就可以在子视图中切换 （必备）
@@ -159,6 +159,7 @@ Ctrl + Shift + 后方向键 光标放在方法名上，将方法移动到下一�
 {% endhighlight %}
 
 ## 6.Alt + Shift 快捷键
+{% highlight ruby %}
 Alt + Shift + N 选择 / 添加 task （必备）
 Alt + Shift + F 显示添加到收藏夹弹出层 / 添加到收藏夹
 Alt + Shift + C 查看最近操作项目的变化情况列表
@@ -169,6 +170,7 @@ Alt + Shift + F10 弹出 Run 的可选择菜单
 Alt + Shift + 左键双击 选择被双击的单词 / 中文句，按住不放，可以同时选择其他单词 / 中文句 （必备）
 Alt + Shift + 前方向键 移动光标所在行向上移动 （必备）
 Alt + Shift + 后方向键 移动光标所在行向下移动 （必备）
+{% endhighlight %}
 
 ## 7.Ctrl + Shift + Alt 快捷键
 {% highlight ruby %}
@@ -191,3 +193,5 @@ F12 回到前一个工具窗口 （必备）
 Tab缩进 （必备）
 ESC 从工具窗口进入代码文件窗口 （必备）
 连按两次Shift 弹出 Search Everywhere 弹出层
+{% endhighlight %}
+
