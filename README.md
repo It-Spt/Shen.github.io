@@ -10,6 +10,7 @@ Light and beautiful blog style template for jekyll
 Find a demo [here](http://nikrich.github.io/jekyll-wing-template/#)
 
 ## Contributing
+
 1. Clone the repo
 2. Checkout the dev branch ( Do not work directly on master )
 3. Use ```jekyll serve``` to run the project
